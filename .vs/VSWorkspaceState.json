@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages\\Newtonsoft.Json.6.0.1",
+    "\\packages\\Strava.NET.1.0.1",
+    "\\StravaTestClient"
+  ],
+  "SelectedNode": "\\StravaTestClient\\StravaTestClient.csproj",
+  "PreviewInSolutionExplorer": false
+}

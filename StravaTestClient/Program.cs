@@ -7,19 +7,19 @@ using System.Linq;
 using System.Net;
 using System.Security.Cryptography.X509Certificates;
 using System.Windows.Forms;
-using com.strava.api.Activities;
-using com.strava.api.Api;
-using com.strava.api.Athletes;
-using com.strava.api.Authentication;
-using com.strava.api.Client;
-using com.strava.api.Clubs;
-using com.strava.api.Common;
-using com.strava.api.Gear;
-using com.strava.api.Http;
-using com.strava.api.Segments;
-using com.strava.api.Streams;
-using com.strava.api.Utilities;
-using WebRequest = com.strava.api.Http.WebRequest;
+using Strava.Activities;
+using Strava.Api;
+using Strava.Athletes;
+using Strava.Authentication;
+using Strava.Clients;
+using Strava.Clubs;
+using Strava.Common;
+using Strava.Gear;
+using Strava.Http;
+using Strava.Segments;
+using Strava.Streams;
+using Strava.Utilities;
+using WebRequest = Strava.Http.WebRequest;
 
 namespace StravaTestClient
 {
